@@ -2,6 +2,6 @@
 
 
 function add(a, b, c)
-    return "abc"
+    return a + b + c
 end
 
